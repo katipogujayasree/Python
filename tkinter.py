@@ -1,4 +1,4 @@
-# importing everything that exists in tkinter module
+# import everything that exists in tkinter module
 from tkinter import *
 
 # create window
